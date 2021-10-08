@@ -1,12 +1,12 @@
 
-<h1 align="center">API_REACT
- </h1><br><br>
+<h2 align="center">API_REACT
+ </h2><br><br>
 
 <p align="center">API EM PHP PARA USAR NO PROJETO PHP_REACTJS</p>
 
 
 
-## 🔴 Requisitos: 🔴
+### 🔴 Requisitos: 🔴
 
 
 - Iniciar servidor PHP no XAMPP
